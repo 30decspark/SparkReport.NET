@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
 VisualStudioVersion = 17.9.34728.123
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparkReport.NET", "SparkReport.NET.csproj", "{12139397-A149-48E5-896C-C66C95D093CA}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SparkReport.NET", "SparkReport.NET.csproj", "{E3326650-E7A4-4D75-AD32-0132CABD53BF}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -11,15 +11,15 @@ Global
 		Release|Any CPU = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
-		{12139397-A149-48E5-896C-C66C95D093CA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
-		{12139397-A149-48E5-896C-C66C95D093CA}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{12139397-A149-48E5-896C-C66C95D093CA}.Release|Any CPU.ActiveCfg = Release|Any CPU
-		{12139397-A149-48E5-896C-C66C95D093CA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E3326650-E7A4-4D75-AD32-0132CABD53BF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E3326650-E7A4-4D75-AD32-0132CABD53BF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E3326650-E7A4-4D75-AD32-0132CABD53BF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E3326650-E7A4-4D75-AD32-0132CABD53BF}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
 	EndGlobalSection
 	GlobalSection(ExtensibilityGlobals) = postSolution
-		SolutionGuid = {25F9C75A-0864-4541-9B7D-4DA1A622379C}
+		SolutionGuid = {5DDB7B82-FFAA-454D-8E8B-7B542F4C5190}
 	EndGlobalSection
 EndGlobal

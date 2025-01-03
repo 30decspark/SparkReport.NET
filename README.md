@@ -8,7 +8,7 @@ To use **SparkReport.NET** for rendering reports, follow these steps:
 using SparkReport.NET;
 
 // Create a new report instance
-var report = new Report();
+var report = new RDLReport();
 
 // Set the report path (RDLC file)
 report.ReportPath = "Test.rdlc";
